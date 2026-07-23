@@ -1,8 +1,8 @@
 // Lista de vídeos do YouTube (IDs extraídos das URLs)
 const channels = [
-    { id: 'LakjhD7SWRE', name: 'aula - 01' },
-    { id: 'e8dQeAIUIs8', name: 'aula - 02' },
-    { id: 'NBUJHxwthHA', name: 'aula - 03' }
+    { id: 'vkN1FAIoRic', name: 'Como vai ser o site que criamos em WordPress?' },
+    { id: 'BDUeeEaxMEg', name: 'Evolução do WordPress (parte 1)' },
+    { id: 't4sLUmejkUU', name: 'Evolução do WordPress (parte 2)' }
 ];
 
 // Estado atual
