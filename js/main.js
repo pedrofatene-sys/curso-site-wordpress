@@ -4,7 +4,7 @@ const channels = [
     { id: 'BDUeeEaxMEg', name: 'Evolução do WordPress (parte 1)' },
     { id: 't4sLUmejkUU', name: 'Evolução do WordPress (parte 2)' },
     { id: 'ZDdHbVHaxCU', name: 'Mitos e verdades sobre o WordPress' },
-    { id: 'kNABhDkuZOo', name: 'Ferramentas úteis para desenvolvedores' },
+    { id: '5KwiBuTtR0o', name: 'Ferramentas úteis para desenvolvedores' },
     { id: 't4sLUmejkUU', name: 'Evolução do WordPress (parte 2)' },
     { id: 't4sLUmejkUU', name: 'Evolução do WordPress (parte 2)' },
     { id: 't4sLUmejkUU', name: 'Evolução do WordPress (parte 2)' },
